@@ -1,0 +1,7 @@
+.cont-perros h1{
+    padding: 2%;
+    text-align: center;
+    color: var(--purple-color);
+    text-shadow: 1px 1px 1px rgb(18, 2, 32);
+    font-weight: 500;
+}

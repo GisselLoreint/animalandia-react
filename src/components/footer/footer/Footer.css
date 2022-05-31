@@ -1,0 +1,16 @@
+
+footer{
+    background-image: url(./fondo-paticas.jpg);
+}
+
+.caja-footer{
+    background-color: rgba(117, 41, 149, 0.5);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+    padding: 15px;
+    color: rgba(255, 255, 255, 0.918);
+}
+
+
